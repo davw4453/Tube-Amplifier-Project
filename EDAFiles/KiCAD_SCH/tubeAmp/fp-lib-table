@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Wheat")(type "Eagle")(uri "/home/david/Documents/CCSUlocal/CET497/ProjectFiles/misc/wheat.lbr")(options "")(descr ""))
+  (lib (name "DavidWrinn")(type "KiCad")(uri "/home/david/Documents/CCSUlocal/CET497/ProjectFiles/EDAFiles/DavidWrinn.pretty")(options "")(descr ""))
+)

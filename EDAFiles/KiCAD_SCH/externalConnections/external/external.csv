@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Manufacturer PN","Link","Unit Price"
+"SW1","1","SW_SPST","","","","","MTS-101","https://www.amazon.com/dp/B0799LBFNY?th=1","$0.80"
+"F1","1","200mA","","","","","0034.3110","https://www.digikey.com/en/products/detail/schurter-inc/0034-3110/639679","$1.19"
+"J1","1","723W-X2/04","","","","","723W-X2/04","https://www.digikey.com/en/products/detail/qualtek/723W-X2-04/245547?s=N4IgTCBcDaIOxgMwHcC0APMB6ADAFhAF0BfIA","$2.67"
+"LS1,LS2","2","4","","","","","CSS-10237-54","https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CSS-10237-54/12762237","$8.28"
+"TR1","1","MPS OT8SE+","","","","Transformer_THT:Transformer_Breve_TEZ-22x24","MPS OT8SE+","https://www.ebay.com/itm/167716877031?_skw=musical+power+supplies+ot8se%2B&itmmeta=01K9FETDF6CQ9TKCFDS6SRV0VM&hash=item270cb472e7:g:vSYAAeSw1RBongON&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1fnhJ%2BC4KDMO2KMPOaXsuK9ZxfgdYGxkmc4Th83Yz9tdX5RlYg6PZr4UZ3UcuqsetWlUQFC7ol4sU698MOC7AzDntVLlMU8hIjirsHYLs8RSicj9lqMRHwmJuJFuaNnTlxu4XLL09EafxC2wm4yRh4beqo2m%2Bt0%2BcaTCvdA8KE2WUIEo3NAeL4XpevekLY%2BfI2bxpCkLW9BuVRDFPoYOA%2Ffsa8vIo3gd1yB9mdI%2Fz%2B%2BPkrZxhRzYN%2Fx6iUAWTdhLHqciT6m%2ByJ4Vv78OdL01DClmc8GDKob4RDlOblDerpq7M3IAgTi5TOiPTVf0gfGpBA%3D%7Ctkp%3ABk9SR-DX6e7LZg","$34.95"

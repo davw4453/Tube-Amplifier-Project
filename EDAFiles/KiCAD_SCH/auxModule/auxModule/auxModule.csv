@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Manufacturer PN","Link","Unit Cost"
+"J1","1","STX-3000","","","","STX-3000_KYC","STX-3000","https://www.digikey.com/en/products/detail/kycon-inc/STX-3000/9975995?s=N4IgTCBcDaIMoBUAaBaAzABiyAugXyA","$0.64"
+"J2","1","6130XX243121_613010243121","","","","DavidWrinn:613010243121_10pin","613010243121","https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/613010243121/2508634?s=N4IgTCBcDaIGwEYDMAGBKwBYkLAkAugL5A","$1.00"
+"R1,R2","2","1K, 1/4W","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","CF14JT1K00","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314","$0.10"
