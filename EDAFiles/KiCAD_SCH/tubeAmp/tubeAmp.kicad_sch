@@ -6922,7 +6922,7 @@
 			)
 		)
 	)
-	(global_label "filament-"
+	(global_label "Filament-"
 		(shape input)
 		(at 224.79 194.31 270)
 		(fields_autoplaced yes)
@@ -6934,7 +6934,7 @@
 		)
 		(uuid "3016bbdf-2027-43a7-9bd8-a954c8aaa163")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.79 206.6689 90)
+			(at 224.79 207.0318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7032,7 +7032,7 @@
 			)
 		)
 	)
-	(global_label "filament+"
+	(global_label "Filament+"
 		(shape input)
 		(at 222.25 194.31 270)
 		(fields_autoplaced yes)
@@ -7044,7 +7044,7 @@
 		)
 		(uuid "a644f147-6392-45c7-b5c3-7f8fcded7784")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.25 206.6689 90)
+			(at 222.25 207.0318 90)
 			(effects
 				(font
 					(size 1.27 1.27)

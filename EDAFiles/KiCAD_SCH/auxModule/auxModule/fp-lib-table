@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "DavidWrinn")(type "KiCad")(uri "/home/david/Documents/CCSUlocal/CET497/ProjectFiles/EDAFiles/DavidWrinn.pretty")(options "")(descr ""))
+  (lib (name "DavidWrinn")(type "KiCad")(uri "/home/david/Documents/CCSUlocal/Spring2026/CET498/Tube-Amplifier-Project/EDAFiles/SymbolsandFootprints/DavidWrinn.pretty")(options "")(descr ""))
 )

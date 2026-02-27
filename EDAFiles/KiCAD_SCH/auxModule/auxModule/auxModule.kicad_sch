@@ -1673,7 +1673,7 @@
 		)
 		(uuid "f6f27a58-24ae-4436-b470-18fea178b9d2")
 	)
-	(global_label "filament-"
+	(global_label "filament+"
 		(shape input)
 		(at 130.81 97.79 270)
 		(fields_autoplaced yes)
@@ -1695,7 +1695,7 @@
 			)
 		)
 	)
-	(global_label "filament+"
+	(global_label "filament-"
 		(shape input)
 		(at 134.62 97.79 270)
 		(fields_autoplaced yes)
@@ -1851,7 +1851,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 88.9 71.12 270)
+		(at 88.9 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1876,7 +1876,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 88.646 72.136 90)
+			(at 89.154 70.104 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1946,13 +1946,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 88.9 82.55 90)
+		(at 88.9 82.55 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bb32db58-2896-40ed-9512-52168a52ddff")
 		(property "Reference" "R2"
 			(at 88.9 76.2 90)
@@ -1971,7 +1971,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 89.154 81.534 90)
+			(at 88.646 81.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
