@@ -1,0 +1,11 @@
+two mounting holes not bonded to ground
+main power traces to thin
+7591s footprint doesn't fit
+
+
+CASE
+speaker holes too small
+control pots too small
+input module slot to narrow
+speaker indent wall doesn't print well
+Case wall to thick to skrew in pot securing nuts.
