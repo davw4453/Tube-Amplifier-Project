@@ -1,7 +1,14 @@
 two mounting holes not bonded to ground
 main power traces to thin
 7591s footprint doesn't fit
+6922 footprints doesn't fit well
+Provision series resistor add-in to 6.3VAC secondary.
+add common mode choke
+add icl/soft start DC
+thicken traces cause it makes me feel better
+pots that aren't switches
 
+aux input module connector needs to overhang + flip sides for case.
 
 CASE
 speaker holes too small
