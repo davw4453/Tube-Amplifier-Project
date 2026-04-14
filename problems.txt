@@ -1,11 +1,11 @@
 two mounting holes not bonded to ground
-main power traces to thin
+main power traces too thin
 7591s footprint doesn't fit
 6922 footprints doesn't fit well
 Provision series resistor add-in to 6.3VAC secondary.
 add common mode choke
 add icl/soft start DC
-thicken traces cause it makes me feel better
+thicken traces because it makes me feel better
 pots that aren't switches
 
 aux input module connector needs to overhang + flip sides for case.
@@ -16,3 +16,4 @@ control pots too small
 input module slot to narrow
 speaker indent wall doesn't print well
 Case wall to thick to skrew in pot securing nuts.
+lid lip overhangs PCB on power side.
